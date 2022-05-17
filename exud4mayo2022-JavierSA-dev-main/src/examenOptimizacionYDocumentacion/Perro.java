@@ -2,12 +2,12 @@ package com.jsl.examen.OptimizacionYDocumentacion;
 
 import examenOptimizacionYDocumentacion.EdadErroneaException;
 
-public class Perro {
+public class Perro extends Animal {
     private int age;
-    private String name;
     private final String LADRAR = "GUAUUUUUUUUUU";
 
     public Perro(String name, int age) throws EdadErroneaException {
+        super();
         setAge(age);
         this.name = name;
     }
@@ -24,10 +24,6 @@ public class Perro {
 
     public String ladrar() {
         return LADRAR;
-    }
-
-    public String getName() {
-        return name;
     }
 
 }
