@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.jsl.examen.OptimizacionYDocumentacion","l":"Animal"},{"p":"com.jsl.examen.OptimizacionYDocumentacion","l":"EdadErroneaException"},{"p":"com.jsl.examen.OptimizacionYDocumentacion","l":"Perro"}];updateSearchResults();
