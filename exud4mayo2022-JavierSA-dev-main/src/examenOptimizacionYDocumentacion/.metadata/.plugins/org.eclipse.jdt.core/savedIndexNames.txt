@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\javil\OneDrive\Escritorio\examenEntornos\exud4mayo2022-JavierSA-dev-main\src\examenOptimizacionYDocumentacion\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
